@@ -1,4 +1,4 @@
-name: Build Rusdi.ipk
+Name: Build Rusdi.ipk
 
 # Arquivo unico e autocontido: contem o codigo do Rusdi (base64) e compila para
 # LG webOS usando o toolchain nativo do webosbrew + SDL2 do fork SDL-webOS.
@@ -76,7 +76,7 @@ jobs:
           /8SKYzS/xCxkPYAY6L60fwNJnos7Pm9eMsv3euhXxOPdo4MEoOdCR1zh2+YFKR/F7iC0a9VDmDuyw3SsrdLaWGqnXkRddWPgiReh
           aCyZRmGcUmMV1X4Jt61ctjJ3j1ytrGc6qEAn9ISbtxzMUky/bFFRymv965aUYz7IYJpVVU3NL4VIXgWQzBRga1ZEAMeDyoTt6vLS
           EjBTJ9L78iP3fdSq53cmN1+afcnf/xd05Zk/zelVFbzviiwZX4IuYBde4vX8bCZLa1pZ45u/pAk5TbDKZV1TKwjeOOUXdezihY1K
-          m5GKutscMN9tT5qlGRT03S9aaWlJu5MyvYwgC/YM0kxJ8ZxLn8Kq5N0lFMpp8b6WAGmN/Y2DQSHwX2AssN5/zn4cwSpw5OK+9Rz0
+          m5GKutscMN9tT5qlGRT03S9aaWlJu5MyvYwgC/YM0kxJ8ZxLn8Kq5N0lFMpp8b6WAGmN/Y2DQSHwX2AssN5/zn4swSpw5OK+9Rz0
           0exjD8w3MyjzXir/7B6eoHD5+R4s/i7z3X1MgF9JKXN4wm/m5dWcKGc1hWZnWmWFVTpDrVWSPw1jAuZ4YpqxKwT+3MId61N+W6xJ
           KRIq/yM2S4UwapR6wxyVYXV1lR3zPu9xtERPfZQYEpBlEiacMRMULIbTYBAyK3BB7vFDkIA8t27rNhjhu5oz5tHwymHLL4dXuMOp
           w0743krn5UkyyqhaGqjiKzuNr7sx71+UhIc5xpucb0KdFdj8NhkB1/SSFJfCG7Q9NYQlX4wZxIyZQjJMANr9Huzk9v3Z0jSeXfAC
