@@ -1,4 +1,4 @@
-Name: Build Rusdi.ipk
+name: Build Rusdi.ipk
 
 # Arquivo unico e autocontido: contem o codigo do Rusdi (base64) e compila para
 # LG webOS usando o toolchain nativo do webosbrew + SDL2 do fork SDL-webOS.
